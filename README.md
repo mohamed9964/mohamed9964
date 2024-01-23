@@ -2,6 +2,10 @@
 
 ## 🧠 AI & Data Science Enthusiast | 🛢️ Data Engineering
 
+### 🎓 Education
+- MEng in Electrical and Computer Engineering, University of Ottawa
+- Bachelor’s in Computer Science, Mansoura University
+
 ### 👨‍💻 Experience
 - **Web Developer at Advertizer Agency** (Jun 2020 - Jun 2021)
 
@@ -15,11 +19,6 @@
 - 🛒 **E-commerce Website Development** - Created a fully functional e-commerce website using HTML, CSS, JavaScript, and PHP, with payment gateway integration.
 - 📝 **Blog Website with Content Management System (CMS)** - Developed a dynamic blog website with a user-friendly CMS for easy content management.
 
-
-
-### 🎓 Education
-- MEng in Electrical and Computer Engineering, University of Ottawa
-- Bachelor’s in Computer Science, Mansoura University
 
 ### 💼 Skills
 #### 🚀 Programming Languages
