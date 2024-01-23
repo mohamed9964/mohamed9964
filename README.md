@@ -83,6 +83,7 @@
 </div>
 
 <style>
+  /* Add your own custom CSS styles here for further enhancements */
   h1, h2 {
     animation: bounce 1s infinite alternate;
   }
@@ -96,3 +97,4 @@
     }
   }
 </style>
+  
