@@ -5,22 +5,23 @@
 ### 👨‍💻 Experience
 - **Web Developer at Advertizer Agency** (Jun 2020 - Jun 2021)
 
-### 🚀 Projects
-**Ice, Snow and Water Detection** - Road hazard detection system developed in collaboration with VALEO, identifies hazards for enhanced safety.
+### ⭐ Projects
+🚀 **Ice, Snow and Water Detection** - Road hazard detection system developed in collaboration with VALEO, identifies hazards for enhanced safety.
 
-**Smart Parenting Advisor Bot** - AI-based blog system for parenting advice; behavioral management; interactive chatbot. Graduation Project.
+🤖 **Smart Parenting Advisor Bot** - AI-based blog system for parenting advice; behavioral management; interactive chatbot. Graduation Project.
 
-**DDoS Attack Detection** - Advanced ML techniques for DDoS attack classification; feature selection methods; ensemble models.
+💻 **DDoS Attack Detection** - Advanced ML techniques for DDoS attack classification; feature selection methods; ensemble models.
 
-**AI-Driven Movie Recommender Chatbot** - Personalized movie recommendations via AI chatbot; content-based filtering; Flask, ngrok integration, Dialogflow.
+🎬 **AI-Driven Movie Recommender Chatbot** - Personalized movie recommendations via AI chatbot; content-based filtering; Flask, ngrok integration, Dialogflow.
 
-**TensorVideoClassifier-DeepLearning** - Video data analysis with tensor data; binary classification; MobileNet, YOLO, ResNet50, Inception.
+📹 **TensorVideoClassifier-DeepLearning** - Video data analysis with tensor data; binary classification; MobileNet, YOLO, ResNet50, Inception.
 
-**E-commerce Website Development** - Created a fully functional e-commerce website using HTML, CSS, JavaScript, and PHP, with payment gateway integration.
+🛒 **E-commerce Website Development** - Created a fully functional e-commerce website using HTML, CSS, JavaScript, and PHP, with payment gateway integration.
 
-**Cloud-based Data Warehousing** - Implemented a data warehousing solution using AWS services, optimizing data storage and retrieval.
+☁️ **Cloud-based Data Warehousing** - Implemented a data warehousing solution using AWS services, optimizing data storage and retrieval.
 
-**Blog Website with Content Management System (CMS)** - Developed a dynamic blog website with a user-friendly CMS for easy content management.
+📝 **Blog Website with Content Management System (CMS)** - Developed a dynamic blog website with a user-friendly CMS for easy content management.
+
 
 
 ### 🎓 Education
